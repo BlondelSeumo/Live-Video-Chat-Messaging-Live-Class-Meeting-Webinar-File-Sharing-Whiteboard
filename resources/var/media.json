@@ -1,0 +1,14 @@
+{
+	"meeting" : {
+		"auth_required" : 1,
+		"allowed_max_file_size" : 2,
+		"allowed_file_extensions" : ["jpg","png","jpeg","pdf","doc","docx","xls","xlsx","txt"],
+		"allowed_max_file_count" : 20
+	},
+	"comment" : {
+		"auth_required" : 1,
+		"allowed_max_file_size" : 2,
+		"allowed_file_extensions" : ["jpg","png","jpeg","pdf","doc","docx","xls","xlsx","txt"],
+		"allowed_max_file_count" : 20
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"general": {
+		"genders"         : ["male","female"],
+		"marital_statuses": ["single","married","separated","widowed","divorced"],
+		"relations"       : ["father","mother","spouse","sibling","other"],
+		"days"            : ["monday","tuesday","wednesday","thursday","friday","saturday","sunday"],
+		"frequencies"     : ["daily","weekly","fortnightly","monthly","bi_monthly","quarterly","bi_annually","annually"],
+		"months"          : ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+	},
+	"config": {
+		"paginations"           : [1,5,10,25,50,100],
+		"mail_drivers"          : ["sendmail","mailgun","smtp","log"],
+		"sms_drivers"          : ["nextmo","twilio","custom"],
+		"mail_encryptions"      : ["ssl","tls"],
+		"directions"            : ["rtl","ltr"],
+		"social_login_providers": ["facebook", "google", "github", "twitter"],
+		"date_formats"          : ["D-MM-YY","D-MM-YYYY","DD-MM-YYYY","MM-DD-YYYY","YYYY-MM-DD","MMM D, YYYY","MMMM D, YYYY","dddd, MMM D, YYYY","dddd, MMMM D, YYYY","D MMM YYYY","D MMMM YYYY","dddd, D MMM YYYY","dddd, D MMMM YYYY"],
+		"time_formats"          : ["H:m","H:m a","H:m A","H:mm","H:mm a","H:mm A","HH:mm","HH:mm a","HH:mm A","h:m","h:m a","h:m A","h:mm","h:mm a","h:mm A","hh:mm","hh:mm a","hh:mm A"]
+	},
+	"meeting": {
+		"types": ["video_conference", "audio_conference", "webinar", "live_class", "podcast"],
+		"statuses": ["live", "scheduled", "cancelled", "ended"]
+	}
+}

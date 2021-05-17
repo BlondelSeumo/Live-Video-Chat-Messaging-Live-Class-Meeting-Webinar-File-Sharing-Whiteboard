@@ -1,0 +1,1084 @@
+[
+    {
+        "description": "Afghanistan Afghani",
+        "name": "AFN",
+        "symbol": "؋",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Albania Lek",
+        "name": "ALL",
+        "symbol": "Lek",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Argentina Peso",
+        "name": "ARS",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Aruba Guilder",
+        "name": "AWG",
+        "symbol": "ƒ",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Australia Dollar",
+        "name": "AUD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Azerbaijan Manat",
+        "name": "AZN",
+        "symbol": "₼",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Bahamas Dollar",
+        "name": "BSD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Barbados Dollar",
+        "name": "BBD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Belarus Ruble",
+        "name": "BYN",
+        "symbol": "Br",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Belize Dollar",
+        "name": "BZD",
+        "symbol": "BZ$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Bermuda Dollar",
+        "name": "BMD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Bolivia Bolíviano",
+        "name": "BOB",
+        "symbol": "$b",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Bosnia and Herzegovina Convertible Marka",
+        "name": "BAM",
+        "symbol": "KM",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Botswana Pula",
+        "name": "BWP",
+        "symbol": "P",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Brazil Real",
+        "name": "BRL",
+        "symbol": "R$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Brunei Darussalam Dollar",
+        "name": "BND",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Bulgaria Lev",
+        "name": "BGN",
+        "symbol": "лв",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Cambodia Riel",
+        "name": "KHR",
+        "symbol": "៛",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Canada Dollar",
+        "name": "CAD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Cayman Islands Dollar",
+        "name": "KYD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Chile Peso",
+        "name": "CLP",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "China Yuan Renminbi",
+        "name": "CNY",
+        "symbol": "¥",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Colombia Peso",
+        "name": "COP",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Costa Rica Colon",
+        "name": "CRC",
+        "symbol": "₡",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Croatia Kuna",
+        "name": "HRK",
+        "symbol": "kn",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Cuba Peso",
+        "name": "CUP",
+        "symbol": "₱",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Czech Republic Koruna",
+        "name": "CZK",
+        "symbol": "Kč",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Denmark Krone",
+        "name": "DKK",
+        "symbol": "kr",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Dominican Republic Peso",
+        "name": "DOP",
+        "symbol": "RD$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "East Caribbean Dollar",
+        "name": "XCD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Egypt Pound",
+        "name": "EGP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "El Salvador Colon",
+        "name": "SVC",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Euro Member Countries",
+        "name": "EUR",
+        "symbol": "€",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Falkland Islands (Malvinas) Pound",
+        "name": "FKP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Fiji Dollar",
+        "name": "FJD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Ghana Cedi",
+        "name": "GHS",
+        "symbol": "¢",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Gibraltar Pound",
+        "name": "GIP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Guatemala Quetzal",
+        "name": "GTQ",
+        "symbol": "Q",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Guernsey Pound",
+        "name": "GGP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Guyana Dollar",
+        "name": "GYD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Honduras Lempira",
+        "name": "HNL",
+        "symbol": "L",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Hong Kong Dollar",
+        "name": "HKD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Hungary Forint",
+        "name": "HUF",
+        "symbol": "Ft",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Iceland Krona",
+        "name": "ISK",
+        "symbol": "kr",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "India Rupee",
+        "name": "INR",
+        "symbol": "₹",
+        "icon": "rupee-sign",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Indonesia Rupiah",
+        "name": "IDR",
+        "symbol": "Rp",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Iran Rial",
+        "name": "IRR",
+        "symbol": "﷼",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Isle of Man Pound",
+        "name": "IMP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Israel Shekel",
+        "name": "ILS",
+        "symbol": "₪",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Jamaica Dollar",
+        "name": "JMD",
+        "symbol": "J$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Japan Yen",
+        "name": "JPY",
+        "symbol": "¥",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Jersey Pound",
+        "name": "JEP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Kazakhstan Tenge",
+        "name": "KZT",
+        "symbol": "лв",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Korea (North) Won",
+        "name": "KPW",
+        "symbol": "₩",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Korea (South) Won",
+        "name": "KRW",
+        "symbol": "₩",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Kyrgyzstan Som",
+        "name": "KGS",
+        "symbol": "лв",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Laos Kip",
+        "name": "LAK",
+        "symbol": "₭",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Lebanon Pound",
+        "name": "LBP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Liberia Dollar",
+        "name": "LRD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Macedonia Denar",
+        "name": "MKD",
+        "symbol": "ден",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Malaysia Ringgit",
+        "name": "MYR",
+        "symbol": "RM",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Mauritius Rupee",
+        "name": "MUR",
+        "symbol": "₨",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Mexico Peso",
+        "name": "MXN",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Mongolia Tughrik",
+        "name": "MNT",
+        "symbol": "₮",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Mozambique Metical",
+        "name": "MZN",
+        "symbol": "MT",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Namibia Dollar",
+        "name": "NAD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Nepal Rupee",
+        "name": "NPR",
+        "symbol": "₨",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Netherlands Antilles Guilder",
+        "name": "ANG",
+        "symbol": "ƒ",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "New Zealand Dollar",
+        "name": "NZD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Nicaragua Cordoba",
+        "name": "NIO",
+        "symbol": "C$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Nigeria Naira",
+        "name": "NGN",
+        "symbol": "₦",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Norway Krone",
+        "name": "NOK",
+        "symbol": "kr",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Oman Rial",
+        "name": "OMR",
+        "symbol": "﷼",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Pakistan Rupee",
+        "name": "PKR",
+        "symbol": "₨",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Panama Balboa",
+        "name": "PAB",
+        "symbol": "B/.",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Paraguay Guarani",
+        "name": "PYG",
+        "symbol": "Gs",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Peru Sol",
+        "name": "PEN",
+        "symbol": "S/.",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Philippines Piso",
+        "name": "PHP",
+        "symbol": "₱",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Poland Zloty",
+        "name": "PLN",
+        "symbol": "zł",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Qatar Riyal",
+        "name": "QAR",
+        "symbol": "﷼",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Romania Leu",
+        "name": "RON",
+        "symbol": "lei",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Russia Ruble",
+        "name": "RUB",
+        "symbol": "₽",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Saint Helena Pound",
+        "name": "SHP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Saudi Arabia Riyal",
+        "name": "SAR",
+        "symbol": "﷼",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Serbia Dinar",
+        "name": "RSD",
+        "symbol": "Дин.",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Seychelles Rupee",
+        "name": "SCR",
+        "symbol": "₨",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Singapore Dollar",
+        "name": "SGD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Solomon Islands Dollar",
+        "name": "SBD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Somalia Shilling",
+        "name": "SOS",
+        "symbol": "S",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "South Africa Rand",
+        "name": "ZAR",
+        "symbol": "R",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Sri Lanka Rupee",
+        "name": "LKR",
+        "symbol": "₨",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Suriname Dollar",
+        "name": "SRD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Sweden Krona",
+        "name": "SEK",
+        "symbol": "kr",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Switzerland Franc",
+        "name": "CHF",
+        "symbol": "CHF",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Syria Pound",
+        "name": "SYP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Taiwan New Dollar",
+        "name": "TWD",
+        "symbol": "NT$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Thailand Baht",
+        "name": "THB",
+        "symbol": "฿",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Trinidad and Tobago Dollar",
+        "name": "TTD",
+        "symbol": "TT$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Tuvalu Dollar",
+        "name": "TVD",
+        "symbol": "$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Ukraine Hryvnia",
+        "name": "UAH",
+        "symbol": "₴",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "United Kingdom Pound",
+        "name": "GBP",
+        "symbol": "£",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "United States Dollar",
+        "name": "USD",
+        "symbol": "$",
+        "icon": "dollar-sign",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Uruguay Peso",
+        "name": "UYU",
+        "symbol": "$U",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Uzbekistan Som",
+        "name": "UZS",
+        "symbol": "лв",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Venezuela Bolívar",
+        "name": "VEF",
+        "symbol": "Bs",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Viet Nam Dong",
+        "name": "VND",
+        "symbol": "₫",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Yemen Rial",
+        "name": "YER",
+        "symbol": "﷼",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    },
+    {
+        "description": "Zimbabwe Dollar",
+        "name": "ZWD",
+        "symbol": "Z$",
+        "position": "prefix",
+        "decimal": 2,
+        "thousand": 3,
+        "decimal_delimeter": ".",
+        "thousand_delimeter": ","
+    }
+]

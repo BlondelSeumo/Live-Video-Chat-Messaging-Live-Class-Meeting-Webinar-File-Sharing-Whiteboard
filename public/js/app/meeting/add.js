@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{Mnex:function(e,n,o){"use strict";o.r(n);var t=o("pVdk"),a=o("BcCH"),c={components:{CommonForm:t.a},beforeRouteLeave:function(e,n,o){a.a.$emit("ROUTE_LEAVING",o)}},r=o("KHd+"),s=Object(r.a)(c,(function(){var e=this.$createElement,n=this._self._c||e;return n("base-container",{attrs:{boxed:""}},[n("common-form")],1)}),[],!1,null,null,null);n.default=s.exports}}]);
+//# sourceMappingURL=add.js.map?id=5f1b2dd0110419e49e45

@@ -1,0 +1,38 @@
+{
+	"roles": ["admin","user"],
+	"permissions": {
+		"config": {
+			"access-config": [],
+			"access-ui-config": [],
+			"enable-login": ["user"]
+		},
+		"utility": {
+			"access-todo": ["user"]
+		},
+		"site": {
+			"access-page": [],
+			"access-page-config": [],
+			"list-query": ["user"],
+			"response-query": [],
+			"delete-query": [],
+			"list-subscriber": ["user"],
+			"delete-subscriber": []
+		},
+		"user": {
+			"list-user": [],
+			"create-user": [],
+			"edit-user": [],
+			"delete-user": []
+		},
+		"contact": {
+			"access-contact": ["user"]
+		},
+		"meeting": {
+			"list-meeting": ["user"],
+			"create-meeting": [],
+			"edit-meeting": [],
+			"delete-meeting": [],
+			"access-meeting-config": []
+		}
+	}
+}

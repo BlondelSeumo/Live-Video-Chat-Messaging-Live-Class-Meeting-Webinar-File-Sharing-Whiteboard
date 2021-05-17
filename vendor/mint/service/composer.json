@@ -1,0 +1,26 @@
+{
+    "name": "mint/service",
+    "description": "Basic Service Provider for ScriptMint application",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ScriptMint",
+            "email": "hello@scriptmint.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mint\\Service\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mint\\Service\\MintServiceProvider"
+            ]
+        }
+    }
+}

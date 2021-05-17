@@ -1,0 +1,12 @@
+/*! jQuery v3.5.1 | (c) JS Foundation and other contributors | jquery.org/license */
+
+/**
+ * Trumbowyg v2.23.0 - A lightweight WYSIWYG editor
+ * Trumbowyg core file
+ * ------------------------
+ * @link http://alex-d.github.io/Trumbowyg
+ * @license MIT
+ * @author Alexandre Demode (Alex-D)
+ *         Twitter : @AlexandreDemode
+ *         Website : alex-d.fr
+ */

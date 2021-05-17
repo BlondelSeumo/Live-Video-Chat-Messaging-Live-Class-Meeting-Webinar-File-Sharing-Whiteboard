@@ -1,0 +1,277 @@
+{
+	"private_mask": "xxxxxxxxxx",
+	"default_config": {
+		"domain": {},
+		"system": {
+		    "direction": "ltr",
+		    "locale": "en",
+		    "timezone": "Asia/Kolkata",
+		    "date_format": "MMM D, YYYY",
+		    "time_format": "h:mm A",
+		    "per_page": 10,
+		    "currency": "USD",
+		    "footer_credit": "Product by KodeMint",
+		    "setup_wizard": false,
+			"print_preview": true,
+			"todo": true,
+			"enable_aths_alert": true
+		},
+		"basic": {
+			"org_name": "KodeMint Services Pvt Ltd",
+			"org_foundation_date": "1970-01-01",
+			"app_name": "Connect",
+			"app_desc": "Real-Time Communication App",
+			"app_theme_color": "#581b98",
+			"app_background_color": "#ffffff",
+			"app_start_url": ".",
+			"app_scope": "/app"
+		},
+	    "auth": {
+		    "session_lifetime": 10080,
+		    "login_throttle": false,
+			"lock_screen": true,
+			"lock_screen_timeout": 60,
+			"reset_password": true,
+		    "reset_password_token_lifetime": 30,
+			"registration": true,
+			"email_verification": true,
+			"account_approval": true,
+			"two_factor_security": false,
+			"social_login": true,
+		    "otp_lifetime": 10,
+			"email_otp_login": true,
+			"sms_otp_login": false,
+			"registration_terms": true
+	    },
+		"website": {
+			"enabled": false,
+			"theme": "default"
+		},
+		"social": [],
+		"assets": {
+			"favicon": "/images/favicon.png",
+			"logo": "/images/logo.png",
+			"logo_light": "/images/logo-light.png",
+			"icon": "/images/icon.png",
+			"icon_maskable": "/images/icon-maskable.png",
+			"icon_512": "/images/icon-512.png",
+			"icon_192": "/images/icon-192.png",
+			"icon_180": "/images/icon-180.png",
+			"icon_32": "/images/icon-32.png",
+			"icon_16": "/images/icon-16.png"
+		},
+		"mail": {
+			"driver": "log",
+			"from_name": "KodeMint",
+			"from_address": "hi@kodemint.in"
+		},
+		"ui": {},
+		"pusher": {
+			"debug_mode": false
+		},
+		"notification": {
+			"vapid_public_key": null
+		},
+		"chat": {
+			"enabled": true,
+			"enable_auto_open": true,
+			"enter_to_submit": false,
+			"mute_sound_notification": false,
+			"file_sharing": true,
+			"group_chat": true,
+			"separate_window": true
+		},
+		"signal": {
+			"url": null
+		},
+		"ice": {
+			"servers": []
+		},
+		"meeting": {
+			"debug_mode": false,
+			"force_turn": false,
+			"enable_chat": true,
+			"enable_screen_sharing": true,
+			"enable_recording": true,
+			"enable_hand_gesture": true,
+			"enable_file_sharing": true,
+			"enable_link_sharing": true,
+			"enable_whiteboard": true,
+			"enable_pam": false,
+			"pam_open_join_as_guest_page": true,
+			"pam_enable_screen_sharing_for_guest": true,
+			"pam_enable_link_sharing_for_guest": true,
+			"pam_enable_whiteboard_for_guest": true,
+			"footer_auto_hide": false,
+			"mirrored_video": true,
+			"disable_scroll": false,
+			"speech_detection": false,
+			"mute_participants_on_start": false,
+			"layout": "fullpage",
+			"recording_format_audio": "audio/webm",
+			"recording_format_video": "video/webm",
+			"allow_deleting_cancelled_meetings": false,
+			"allow_deleting_ended_meetings": false,
+			"allow_joining_without_devices": false,
+			"instant_meeting_auto_ended": 180
+		}
+	},
+	"public_config": {
+		"system": [
+		    "direction",
+		    "locale",
+		    "timezone",
+		    "date_format",
+		    "time_format",
+		    "per_page",
+		    "currency",
+		    "footer_credit",
+		    "setup_wizard",
+			"print_preview",
+			"enable_aths_alert"
+		],
+		"basic": [
+			"org_name",
+			"app_name",
+			"app_desc",
+			"app_theme_color",
+			"app_background_color"
+		],
+	    "auth": [
+			"reset_password",
+			"registration",
+			"two_factor_security",
+			"social_login",
+			"email_otp_login",
+			"sms_otp_login",
+			"registration_terms"
+	    ],
+		"social": [],
+		"website": [
+			"enabled",
+			"theme"
+		],
+		"assets": [
+			"favicon",
+			"logo",
+			"logo_light",
+			"icon",
+			"icon_maskable",
+			"icon_512",
+			"icon_192",
+			"icon_180",
+			"icon_32",
+			"icon_16"
+		],
+		"meeting": [
+		    "enable_pam",
+				"pam_open_join_as_guest_page"
+		]
+	},
+	"private_config": {
+		"mail": [
+			"smtp_username",
+			"smtp_password",
+	        "mailgun_username",
+	        "mailgun_password",
+	        "mailgun_secret"
+		],
+		"sms": [
+	        "nexmo_api_key",
+	        "nexmo_api_secret",
+	        "twilio_sid",
+	        "twilio_token",
+        	"custom_sms_api_get_url"
+		],
+		"auth": [
+			"google_client_id",
+			"google_client_secret",
+			"facebook_client_id",
+			"facebook_client_secret",
+			"twitter_client_id",
+			"twitter_client_secret",
+			"github_client_id",
+			"github_client_secret"
+		],
+		"pusher": [
+			"pusher_app_id",
+			"pusher_app_secret"
+		],
+		"notification": [
+			"vapid_private_key"
+		]
+	},
+	"bool_config": {
+		"system": [
+	        "https",
+	        "ip_filter",
+		    "print_preview",
+	        "error_display",
+	        "backup",
+	        "email_log",
+	        "email_template",
+        	"maintenance_mode",
+        	"date_time_always_eng",
+        	"multilingual",
+	        "todo",
+	        "enable_aths_alert",
+	        "setup_wizard"
+		],
+		"auth": [
+	        "login_throttle",
+	        "lock_screen",
+        	"reset_password",
+			"two_factor_security",
+			"registration",
+			"email_verification",
+			"account_approval",
+			"social_login",
+			"email_otp_login",
+			"sms_otp_login",
+			"registration_terms",
+			"google",
+			"facebook",
+			"twitter",
+			"github"
+		],
+		"pusher": [
+	        "debug_mode"
+		],
+		"chat": [
+	        "enabled",
+	        "enable_auto_open",
+			"enter_to_submit",
+			"mute_sound_notification",
+			"file_sharing",
+			"group_chat",
+			"separate_window"
+		],
+		"website": [
+			"enabled"
+		],
+		"meeting": [
+	        "debug_mode",
+	        "force_turn",
+	        "enable_chat",
+	        "enable_screen_sharing",
+	        "enable_recording",
+	        "enable_hand_gesture",
+	        "enable_file_sharing",
+	        "enable_link_sharing",
+	        "enable_whiteboard",
+	        "enable_pam",
+	        "pam_open_join_as_guest_page",
+	        "pam_enable_screen_sharing_for_guest",
+	        "pam_enable_link_sharing_for_guest",
+	        "pam_enable_whiteboard_for_guest",
+	        "footer_auto_hide",
+	        "mirrored_video",
+	        "disable_scroll",
+	        "speech_detection",
+	        "mute_participants_on_start",
+	        "allow_joining_without_devices",
+	        "allow_deleting_cancelled_meetings",
+	        "allow_deleting_ended_meetings"
+		]
+	}
+}
